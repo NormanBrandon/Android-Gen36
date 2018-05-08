@@ -1,0 +1,4 @@
+#! /bin/bash
+for ((i=1;i<9;i++)); 
+do mkdir "0$i/saldaña_hernandez"
+done
