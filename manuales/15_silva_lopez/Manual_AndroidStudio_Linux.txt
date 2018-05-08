@@ -1,0 +1,15 @@
+INSTALAR ANDROID STUDIO EN UBUNTU 16.04 LTS
+
+Para la configuración de Android Studio solo se necesitan unos clics. (Será necesario que hayas descargado Android Studio).
+El cual podrás obtener en este link: https://developer.android.com/studio/?hl=es-419 
+
+Para instalar Android Studio en Linux, procede de la siguiente manera:
+
+Desempaca el archivo .zip que descargaste en una ubicación que corresponda para tus aplicaciones; por ejemplo, dentro de /usr/local/ para tu perfil de usuario o dentro de /opt/ para usuarios compartidos.
+
+Para iniciar Android Studio, abre una terminal, navega hacia el directorio android-studio/bin/ y ejecuta studio.sh.
+
+Sugerencia: Agrega android-studio/bin/ en tu variable de entorno RUTA DE ACCESO de modo que puedas iniciar Android Studio desde cualquier directorio.
+
+Selecciona si deseas o no importar configuraciones previas de Android Studio y luego haz clic en OK.
+El asistente de configuración de Android Studio te guiará en el resto de la configuración. Esto incluye la descarga de componentes del Android SDK que se necesiten para el desarrollo.

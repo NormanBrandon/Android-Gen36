@@ -1,0 +1,34 @@
+2-https://searchdatacenter.techtarget.com/es/definicion/GUI-interfaz-grafica-de-usuario
+3-https://www.tutorialspoint.com/android/android_ui_design.htm
+https://www.yeeply.com/blog/diseno-de-apps-moviles-ux-ui-ixd/
+4-http://www.sgoliver.net/blog/interfaz-de-usuario-en-android-layouts/
+https://view.genial.ly/58b1bfb9518ee83bdc08a68b/tipos-de-layout-en-android-studi
+5-http://www.androidcurso.com/index.php/tutoriales-android/32-unidad-2-diseno-de-la-interfaz-de-usuario-vistas-y-layouts/114-layouts
+6-https://view.genial.ly/58b1bfb9518ee83bdc08a68b/tipos-de-layout-en-android-studi
+7-https://view.genial.ly/58b1bfb9518ee83bdc08a68b/tipos-de-layout-en-android-studi
+8-http://www.hermosaprogramacion.com/2016/02/controles-tutorial-botones-android/
+http://www.hermosaprogramacion.com/2016/03/edittext-android/
+9-http://www.jtech.ua.es/dadm/restringido/android/sesion03-apuntes.pdf 
+10-http://victoralex-poo.blogspot.mx/2011/04/eventos-excepciones-y-errores.html
+11.https://en.wikipedia.org/wiki/Object-oriented_programming
+12. https://developer.android.com/guide/components/activities?hl=es
+13-http://www.androidcurso.com/index.php/tutoriales-android/37-unidad-6-multimedia-y-ciclo-de-vida/158-ciclo-de-vida-de-una-actividad
+14. https://stories.devacademy.la/android-ciclo-de-vida-de-un-activity-b2a68c506961
+15. http://www.androfast.com/2016/06/como-crear-un-nuevo-activity-en-android.html 
+16-http://www.tuprogramacion.com/glosario/que-es-el-android-manifest/
+17. https://androidstudiofaqs.com/conceptos/que-es-un-activity-en-android
+18. https://www.quora.com/What-is-the-work-of-findViewById-in-Android-studio
+19. https://androidstudiofaqs.com/tutoriales/comentarios-en-android-studio
+20. http://www.tuprogramacion.com/glosario/que-es-el-android-manifest/
+22. https://developer.android.com/studio/command-line/logcat?hl=es-419
+
+extra 
+b
+https://codigofacilito.com/articulos/mvc-model-view-controller-explicado
+
+c
+https://www.ecured.cu/Multiplataforma
+https://www.deustoformacion.com/blog/desarrollo-apps/desarrollo-aplicaciones-multiplataforma-claves-principales
+https://desarrolloweb.com/articulos/que-es-ionic2.html
+https://www.arsys.es/blog/programacion/diseno-web/que-es-phonegap/
+https://www.xatakandroid.com/aplicaciones-android/flutter-beta-el-framework-de-google-para-crear-apps-android-y-ios-a-toda-velocidad-ya-disponible
